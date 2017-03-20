@@ -1,0 +1,9 @@
+$bgColor: #74AFAD;
+$secOutline: dashed 1px #D9853B;
+
+body {
+  background: $bgColor;
+  section {
+    outline: $secOutline;
+  }
+}
